@@ -1,0 +1,1 @@
+# Kolbo Studio Plugin - Releases\n\nPublic release downloads for Kolbo Studio Plugin for Adobe Premiere Pro & After Effects.\n\n## Download\nVisit the [Releases](../../releases) page to download the latest version.
